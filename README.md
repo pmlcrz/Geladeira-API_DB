@@ -1,12 +1,12 @@
 # Geladeira-API_DB
 
-## Projeto Geladeira API para o programa CodeRDIversity. 
+## Projeto geladeira API para o programa CodeRDIversity. 
 
 Este projeto é uma API para controle de itens de geladeira. 
 Ele permite gerenciar itens armazenados, categorizando-os por andar, container e eletrodoméstico (como a geladeira). 
 O projeto foi desenvolvido utilizando princípios de orientação a objetos (OO) e persistência de dados com Entity Framework.
 
-### Tecnologias Utilizadas
+### Tecnologias utilizadas
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
